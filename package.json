@@ -1,0 +1,22 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "This is an Intro to Node.js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyCabrera/node_project.git"
+  },
+  "author": "Jeremy Cabrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyCabrera/node_project/issues"
+  },
+  "homepage": "https://github.com/JeremyCabrera/node_project#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
